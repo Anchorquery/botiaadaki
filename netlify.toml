@@ -1,6 +1,7 @@
 [[redirects]]
   from = "/api/*"
   to = "https://server.quizzical-wescoff.3-21-26-133.plesk.page/api/:splat"
+		host = "server.quizzical-wescoff.3-21-26-133.plesk.page"
   status = 200
   force = true
   headers = {X-From = "Netlify"}
